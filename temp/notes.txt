@@ -1,0 +1,6 @@
+Event types:
+logout
+update
+login
+purchase
+error
